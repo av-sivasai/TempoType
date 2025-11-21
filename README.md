@@ -3,7 +3,7 @@
 </p>
 
 
-# MusicGenreClassification
+# TempoType: Deep Learning Music Genre Classifier
 
 Academic research in the field of **Deep Learning (Deep Neural Networks) and Sound Processing**.
 
