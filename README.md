@@ -98,7 +98,7 @@ As I explained in the introduction, the papers I based my work on did not solve 
 <img src="assets/results_feng.png?raw=true" alt="Tao Feng's results" width="750">
 </p>
 
-I did looked for benchmarks outside the deep learning field and I found a paper titled “A BENCHMARK DATASET FOR AUDIO CLASSIFICATION AND CLUSTERING” [11]. This paper benchmark a very similar task to mine, the genres it classifies: Blues, Electronic, Jazz, Pop, HipHop, Rock, Folk, Alternative, Funk.
+I did looked for benchmarks outside the deep learning field and I found a paper titled “A BENCHMARK DATASET FOR AUDIO CLASSIFICATION AND CLUSTERING” [11].
 
 <p align="center">
 <img src="assets/results_benchmark.png?raw=true" alt="Benchmark results" width="750">
